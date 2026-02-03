@@ -1,0 +1,64 @@
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Eleven Water | Eleven Beverage Pvt. Ltd.</title>
+  <style>
+    body { margin:0; font-family: Arial, sans-serif; background:#f4f9ff; color:#333; }
+    header { background:#0a3d62; color:white; padding:20px; text-align:center; }
+    nav a { color:white; margin:0 10px; text-decoration:none; font-weight:bold; }
+    .hero { padding:50px 20px; text-align:center; background:linear-gradient(#dff3ff,#ffffff); }
+    .section { padding:40px 20px; max-width:1000px; margin:auto; }
+    .products { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:20px; }
+    .card { background:white; padding:20px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); text-align:center; }
+    .card img { width:100%; border-radius:6px; }
+    .btn { display:inline-block; margin:10px 5px; padding:12px 22px; background:#0a3d62; color:white; text-decoration:none; border-radius:5px; }
+    footer { background:#0a3d62; color:white; text-align:center; padding:20px; }
+  </style>
+</head>
+<body><header>
+  <h1>ELEVEN WATER</h1>
+  <p>Shudhata ka asli swad.</p>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#products">Products</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header><section class="hero" id="home">
+  <h2>Premium Natural Mineral Water</h2>
+  <p>Manufactured & Marketed by <b>Eleven Beverage Pvt. Ltd.</b></p>
+  <a class="btn" href="https://wa.me/918235938322">WhatsApp Order</a>
+  <a class="btn" href="https://instagram.com/eleven_water2026">Instagram</a>
+</section><section class="section" id="products">
+  <h2>Our Products</h2>
+  <p>Available Bottle Sizes</p>
+  <div class="products">
+    <div class="card">
+      <h3>250 ml Bottle</h3>
+      <p>Perfect for travel & events</p>
+    </div>
+    <div class="card">
+      <h3>500 ml Bottle</h3>
+      <p>Daily use & retail supply</p>
+    </div>
+    <div class="card">
+      <h3>1000 ml Bottle</h3>
+      <p>Family & office use</p>
+    </div>
+  </div>
+</section><section class="section" id="about">
+  <h2>About Eleven Beverage Pvt. Ltd.</h2>
+  <p>
+    <b>Eleven Beverage Pvt. Ltd.</b> ek bharosemand naam hai packaged drinking water industry me.
+    <br/>Brand <b>Eleven Water</b> shudh, safe aur hygienic natural mineral water provide karta hai.
+  </p>
+</section><section class="section" id="contact">
+  <h2>Contact Details</h2>
+  <p><b>Mobile / WhatsApp:</b> 8235938322</p>
+  <p><b>Instagram:</b> @eleven_water2026</p>
+  <p><b>Address:</b> Gandhi Nagar Gabhtal, Danapur, Patna<br/>Near Raj Printing Press Gali<br/>Pin Code: 800012</p>
+</section><footer>
+  <p>© 2026 Eleven Beverage Pvt. Ltd. | ELEVEN WATER</p>
+</footer></body>
+</html>
